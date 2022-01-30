@@ -1,0 +1,39 @@
+html {
+    scroll-behavior: smooth;
+    /* плавная прокрутка */
+    font-size: 40px;
+}
+
+p {
+    font-size: 0.8rem;
+    color: #000;
+    text-indent: 2em;
+    /* text-align: justify; */
+}
+
+.article {
+    font-size: 30px;
+}
+
+.hightlight{
+    font-style: 50px;
+    color:red;
+}
+
+#early-life{
+    font-weight: 700;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#business-career{
+    font-style: italic;
+}
+
+#other-activities{
+    text-decoration: underline;
+}
+
+#wealth{
+    text-align: end;
+    cursor: pointer;
+}
